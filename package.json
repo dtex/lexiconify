@@ -1,0 +1,21 @@
+{
+  "name": "lexiconify",
+  "version": "0.0.1",
+  "description": "Converts TC-53 Lexicon md files to HTML and JSONLD",
+  "bin": {
+    "lexiconify": "./lib/lexiconify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtex/lexiconify.git"
+  },
+  "author": "Donovan Buck <donovan@donovan.bz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtex/lexiconify/issues"
+  },
+  "homepage": "https://github.com/dtex/lexiconify#readme",
+  "dependencies": {
+    "mustache": "^3.0.1"
+  }
+}
