@@ -1,7 +1,7 @@
 {
   "name": "lexiconify",
-  "version": "0.0.1",
-  "description": "Converts TC-53 Lexicon md files to HTML and JSONLD",
+  "version": "1.0.0",
+  "description": "Converts lexicon md files to HTML and JSONLD. Built for TC-53 to make lexicon maintenance easy.",
   "bin": {
     "lexiconify": "./lib/lexiconify.js"
   },
