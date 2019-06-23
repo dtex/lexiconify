@@ -19,7 +19,7 @@ A properly formatted src file is a compact format definition list with one term 
 
 ````html
 <dl>Baseball Pitching Terms
-<dt>Fastball<dd>A pitch thrown at or near maximum speed
+<dt><a href="https://authoritativeSource.com">Fastball</a><dd>A pitch thrown at or near maximum speed
 <dt>Change Up<dd>A pitch that mimics a fastball's mechanics, but is held deeper in the hand so that it arrives more slowly and throws off the batters timing.
 <dt>Curve Ball<dd>A pitch thrown with forward rotation that causes it to dive before reaching the batter.
 ````
